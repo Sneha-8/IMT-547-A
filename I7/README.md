@@ -4,6 +4,10 @@
 **Assignment:** I7 — Create a simple API endpoint to host an information structure
 **Author:** Sneha
 
+## Video Demo
+
+[Watch the demo video on Google Drive](https://drive.google.com/file/d/1fA94lDJ0cj5cKu8wuVlU8MkoR_9MmcII/view?usp=sharing)
+
 ## Project Idea
 
 A platform to help people discover and support small businesses in their neighborhood. Users can search by ZIP code, neighborhood, or category to find local shops, cafes, and services near them and buy from them directly.
@@ -52,13 +56,3 @@ Update BASE_URL in access_api.py with your ngrok HTTPS URL, then:
 ```bash
 python access_api.py
 ```
-
-## Video Demo
-
-[Add your video link here after recording]
-
-## Video Demo Checklist
-- [ ] Terminal running Flask
-- [ ] Terminal running ngrok
-- [ ] access_api.py running and showing API responses
-- [ ] Response data printed to screen
